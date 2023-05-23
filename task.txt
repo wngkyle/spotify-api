@@ -1,0 +1,4 @@
+Hi Kyle, as a test of your technical skills can you please build a Spotify web app with React? 
+The app should allow a user to log into their account via the web app. It should also show the 
+users's playlists and play individual songs or the playlists. Don't worry about making the UI 
+pretty. I'm more concerned with how well your app works and how the code looks.

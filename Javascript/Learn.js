@@ -47,7 +47,7 @@ let person = {
     firstName: "Mosh",
     age: 30
 }; 
-console.log(person)
+console.log("person:" + person.age);
 
 // changing the name of the person
 // Dot notation 
